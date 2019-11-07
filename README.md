@@ -1,0 +1,2 @@
+# homework
+hochu avtomat
